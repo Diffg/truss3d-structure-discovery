@@ -1,0 +1,7 @@
+﻿record_key,original_rank,original_wv_0p300,positive_peak_count,reasons
+Pma2/6737,2,-2.41168379e-06,3,nonpositive_original_volumetric_absorption
+Cmc2_1/3976,8,-2.93256505e-05,2,nonpositive_original_volumetric_absorption
+P222/708,10,-4.60682703e-06,2,nonpositive_original_volumetric_absorption
+Cmm2/12461,68,-1.67136421e-05,,nonpositive_original_volumetric_absorption
+Pnnm/1139,69,-2.02113679e-05,1,nonpositive_original_volumetric_absorption
+Pbam/11910,72,-3.4018875e-06,1,nonpositive_original_volumetric_absorption
